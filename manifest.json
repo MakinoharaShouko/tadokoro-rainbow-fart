@@ -1,0 +1,78 @@
+{
+    "name": "Tadokoro Koji",
+    "display-name": "田所浩二",
+    "avatar": "avatar.jpg",
+    "version": "1.0.0",
+    "description": "好时代 来临吧",
+    "languages": "cpp",
+    "gender": "female",
+    "locale": "jp",
+    "contributes": [
+        {
+            "keywords": [
+                "for",
+                "while"
+            ],
+            "voices": [
+                "3daysago.mp3",
+                "kingpride.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "if",
+                "switch",
+                "else"
+            ],
+            "voices":[
+                "24.mp3",
+                "114514.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "define",
+                "include",
+                "using",
+                "++"
+            ],
+            "voices": [
+                "body.mp3",
+                "invitation.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "void",
+                "float",
+                "double",
+                "long",
+                "string",
+                "char"
+            ],
+            "voices": [
+                "koko.mp3",
+                "kuaidianzhoudong.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "return",
+                "cout",
+                "--"
+            ],
+            "voices": [
+                "yarimasune.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "break",
+                "continue"
+            ],
+            "voices": [
+                "aaa.mp3"
+            ]
+        }
+    ]
+}
